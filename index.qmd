@@ -94,7 +94,7 @@ where $\lambda$ is the rate of eruptions per year. Using @eq-poisson, the probab
 
 ![Map of La Palma](images/la-palma-map.png){#fig-map}
 
-La Palma is one of the west most islands in the Volcanic Archipelago of the Canary Islands (@fig-map). 
+La Palma is one of the west-most islands in the Volcanic Archipelago of the Canary Islands (@fig-map). 
 
 {{< embed notebooks/explore-earthquakes.qmd#fig-spatial-plot >}}
 
